@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{84ACCAF5-132F-02A6-D5D0-7B5F08438BCF}</ProjectGuid>
+    <ProjectGuid>{43D3655F-6A9E-7CF6-139F-12B85B859709}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VRC.SDK3</AssemblyName>
@@ -1181,7 +1181,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VRC.Udon.csproj">
-      <Project>{C4800C59-B836-F800-0494-7FEF5F74FF02}</Project>
+      <Project>{CB547C35-0F19-CE06-0FBB-940B057A33FB}</Project>
       <Name>VRC.Udon</Name>
     </ProjectReference>
   </ItemGroup>

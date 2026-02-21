@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{AE69327B-BA24-3D4A-0AFA-79A8EFA92E97}</ProjectGuid>
+    <ProjectGuid>{E0B50CDF-480B-ADC7-40A6-FA2C0C55A045}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>ThryAssemblyDefinition</AssemblyName>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0DA3B0DA-9564-FD56-6AC2-21DA699ADBEB}</ProjectGuid>
+    <ProjectGuid>{C3D5EE1D-690F-08B2-22B2-4E0DF177E431}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UniTask</AssemblyName>

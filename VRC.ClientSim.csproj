@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F43D8C67-68D2-7D9A-C222-5B34370BE6C9}</ProjectGuid>
+    <ProjectGuid>{E8D1A942-7C50-F7FF-2753-91D104E5F28A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VRC.ClientSim</AssemblyName>
@@ -1295,23 +1295,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VRC.Udon.csproj">
-      <Project>{C4800C59-B836-F800-0494-7FEF5F74FF02}</Project>
+      <Project>{CB547C35-0F19-CE06-0FBB-940B057A33FB}</Project>
       <Name>VRC.Udon</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDKBase.csproj">
-      <Project>{8AD7BB88-7DEA-3D54-EA29-C75D70C60BC2}</Project>
+      <Project>{DADF9EDA-B8BE-6A02-E369-252A1FE749EB}</Project>
       <Name>VRC.SDKBase</Name>
     </ProjectReference>
     <ProjectReference Include="UniTask.csproj">
-      <Project>{0DA3B0DA-9564-FD56-6AC2-21DA699ADBEB}</Project>
+      <Project>{C3D5EE1D-690F-08B2-22B2-4E0DF177E431}</Project>
       <Name>UniTask</Name>
     </ProjectReference>
     <ProjectReference Include="UdonSharp.Runtime.csproj">
-      <Project>{FEB9382C-39AF-9B9E-42C6-4F263F2110E9}</Project>
+      <Project>{DE31F62F-385B-A1D5-E772-070FC017A85A}</Project>
       <Name>UdonSharp.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.Udon.Editor.csproj">
-      <Project>{47CE2010-A2DA-EA2D-8132-CF0505E3C00D}</Project>
+      <Project>{6C669D47-2C1F-D83A-EBD3-607AB760761B}</Project>
       <Name>VRC.Udon.Editor</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5583AC69-1A19-1B34-4D75-8E255551398D}</ProjectGuid>
+    <ProjectGuid>{8909C3E2-E872-C943-B21C-4F366D59752A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VRC.SDKBase.Editor.BuildPipeline</AssemblyName>

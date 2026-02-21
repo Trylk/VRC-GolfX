@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6A8AE61C-455D-E47B-C7FE-2136A7E30EF7}</ProjectGuid>
+    <ProjectGuid>{261202DD-A2D9-2DD6-F5E1-13596D8E12A2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>vrchat.jordo.easyquestswitch.Editor</AssemblyName>
@@ -1168,7 +1168,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="vrchat.jordo.easyquestswitch.csproj">
-      <Project>{D9BAE427-4AB0-8E19-3F51-75724628A1DB}</Project>
+      <Project>{D891A2A0-32C5-B52E-B428-13BAA25F88B9}</Project>
       <Name>vrchat.jordo.easyquestswitch</Name>
     </ProjectReference>
   </ItemGroup>

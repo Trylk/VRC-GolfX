@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CE1C6D69-01EA-C5B3-B6DE-9972FA34DA6D}</ProjectGuid>
+    <ProjectGuid>{A73AFA46-8748-043F-04BE-0176A888F51E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>ThryExternal</AssemblyName>
@@ -1169,7 +1169,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="ThryAssemblyDefinition.csproj">
-      <Project>{AE69327B-BA24-3D4A-0AFA-79A8EFA92E97}</Project>
+      <Project>{E0B50CDF-480B-ADC7-40A6-FA2C0C55A045}</Project>
       <Name>ThryAssemblyDefinition</Name>
     </ProjectReference>
   </ItemGroup>

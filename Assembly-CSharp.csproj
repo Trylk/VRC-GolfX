@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1D273190-3752-EF32-4F78-5B8F4718FDB7}</ProjectGuid>
+    <ProjectGuid>{EA166570-D4AA-88F1-F043-1E4DABBE5FFF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1270,103 +1270,103 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UdonSharp.Editor.csproj">
-      <Project>{E643CD25-FD97-CEC3-089F-31EFB19327E8}</Project>
+      <Project>{1F78ED0A-71A1-43D2-FC44-33D84E25537D}</Project>
       <Name>UdonSharp.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="vrchat.jordo.easyquestswitch.csproj">
-      <Project>{D9BAE427-4AB0-8E19-3F51-75724628A1DB}</Project>
+      <Project>{D891A2A0-32C5-B52E-B428-13BAA25F88B9}</Project>
       <Name>vrchat.jordo.easyquestswitch</Name>
     </ProjectReference>
     <ProjectReference Include="ThryAssemblyDefinition.csproj">
-      <Project>{AE69327B-BA24-3D4A-0AFA-79A8EFA92E97}</Project>
+      <Project>{E0B50CDF-480B-ADC7-40A6-FA2C0C55A045}</Project>
       <Name>ThryAssemblyDefinition</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.ExampleCentral.Editor.csproj">
-      <Project>{29F41523-6B91-4F4C-E95C-AF093C7087CC}</Project>
+      <Project>{67057073-20A9-4BDA-2923-24685A36449B}</Project>
       <Name>VRC.ExampleCentral.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDKBase.Editor.BuildPipeline.csproj">
-      <Project>{5583AC69-1A19-1B34-4D75-8E255551398D}</Project>
+      <Project>{8909C3E2-E872-C943-B21C-4F366D59752A}</Project>
       <Name>VRC.SDKBase.Editor.BuildPipeline</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.Udon.Serialization.OdinSerializer.csproj">
-      <Project>{79C2B45C-76C6-666F-C2CD-B0916ABC95E5}</Project>
+      <Project>{49F2017D-F752-7C35-6B03-43D6B478003F}</Project>
       <Name>VRC.Udon.Serialization.OdinSerializer</Name>
     </ProjectReference>
     <ProjectReference Include="com.vrchat.core.vpm-resolver.Editor.csproj">
-      <Project>{DAF94493-E45C-EEFB-E2CB-E01D9993A9BF}</Project>
+      <Project>{DF8132FF-6135-8234-48DC-C7FFA6B1375F}</Project>
       <Name>com.vrchat.core.vpm-resolver.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDKBase.Editor.csproj">
-      <Project>{8B828B92-D1A6-9800-A6D6-45E93598D77E}</Project>
+      <Project>{BA9387BD-A237-EA79-CADB-E55A18C4F090}</Project>
       <Name>VRC.SDKBase.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.Udon.csproj">
-      <Project>{C4800C59-B836-F800-0494-7FEF5F74FF02}</Project>
+      <Project>{CB547C35-0F19-CE06-0FBB-940B057A33FB}</Project>
       <Name>VRC.Udon</Name>
     </ProjectReference>
     <ProjectReference Include="UdonSharp.Runtime.csproj">
-      <Project>{FEB9382C-39AF-9B9E-42C6-4F263F2110E9}</Project>
+      <Project>{DE31F62F-385B-A1D5-E772-070FC017A85A}</Project>
       <Name>UdonSharp.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.Udon.Editor.csproj">
-      <Project>{47CE2010-A2DA-EA2D-8132-CF0505E3C00D}</Project>
+      <Project>{6C669D47-2C1F-D83A-EBD3-607AB760761B}</Project>
       <Name>VRC.Udon.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.ClientSim.Editor.csproj">
-      <Project>{00C73114-79E8-AD74-1A0A-1A8AAD5E89E5}</Project>
+      <Project>{D8F9165D-3B48-1BA2-7652-6E56FE6D2B15}</Project>
       <Name>VRC.ClientSim.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UniTask.DOTween.csproj">
-      <Project>{1F741DFF-54F7-066A-885B-5143DE6DE07B}</Project>
+      <Project>{7FFBB2B6-759D-685D-A9E3-EA69AE6814B0}</Project>
       <Name>UniTask.DOTween</Name>
     </ProjectReference>
     <ProjectReference Include="UniTask.csproj">
-      <Project>{0DA3B0DA-9564-FD56-6AC2-21DA699ADBEB}</Project>
+      <Project>{C3D5EE1D-690F-08B2-22B2-4E0DF177E431}</Project>
       <Name>UniTask</Name>
     </ProjectReference>
     <ProjectReference Include="vrchat.jordo.easyquestswitch.Editor.csproj">
-      <Project>{6A8AE61C-455D-E47B-C7FE-2136A7E30EF7}</Project>
+      <Project>{261202DD-A2D9-2DD6-F5E1-13596D8E12A2}</Project>
       <Name>vrchat.jordo.easyquestswitch.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDK3.csproj">
-      <Project>{84ACCAF5-132F-02A6-D5D0-7B5F08438BCF}</Project>
+      <Project>{43D3655F-6A9E-7CF6-139F-12B85B859709}</Project>
       <Name>VRC.SDK3</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDKBase.Editor.ShaderStripping.csproj">
-      <Project>{80486FDB-108A-C3C6-811A-210F928CBECB}</Project>
+      <Project>{DCD13559-1A78-6EE4-B1B5-C2934B57DCD3}</Project>
       <Name>VRC.SDKBase.Editor.ShaderStripping</Name>
     </ProjectReference>
     <ProjectReference Include="Poi.Tools.csproj">
-      <Project>{24AA6126-8444-30A7-FED4-43A521A06009}</Project>
+      <Project>{4F3CF73C-2434-3FC5-142F-99B2F7D73C1B}</Project>
       <Name>Poi.Tools</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDKBase.csproj">
-      <Project>{8AD7BB88-7DEA-3D54-EA29-C75D70C60BC2}</Project>
+      <Project>{DADF9EDA-B8BE-6A02-E369-252A1FE749EB}</Project>
       <Name>VRC.SDKBase</Name>
     </ProjectReference>
     <ProjectReference Include="UniTask.Linq.csproj">
-      <Project>{9F55BBF1-53C9-1B96-6A87-C43DC5C752AE}</Project>
+      <Project>{AC4CD3B6-5C7C-007E-030F-AAE4ED4B39E9}</Project>
       <Name>UniTask.Linq</Name>
     </ProjectReference>
     <ProjectReference Include="UniTask.TextMeshPro.csproj">
-      <Project>{EA90795E-5AED-5F5B-1CF1-CDE2F1559FB8}</Project>
+      <Project>{8A22D950-CE41-A992-4323-3F8A2F03976A}</Project>
       <Name>UniTask.TextMeshPro</Name>
     </ProjectReference>
     <ProjectReference Include="ThryExternal.csproj">
-      <Project>{CE1C6D69-01EA-C5B3-B6DE-9972FA34DA6D}</Project>
+      <Project>{A73AFA46-8748-043F-04BE-0176A888F51E}</Project>
       <Name>ThryExternal</Name>
     </ProjectReference>
     <ProjectReference Include="UniTask.Addressables.csproj">
-      <Project>{63360BFF-86CB-79F5-42B2-4644518430AD}</Project>
+      <Project>{35E86A29-DF7E-B634-357A-C2F529C482B5}</Project>
       <Name>UniTask.Addressables</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.ClientSim.csproj">
-      <Project>{F43D8C67-68D2-7D9A-C222-5B34370BE6C9}</Project>
+      <Project>{E8D1A942-7C50-F7FF-2753-91D104E5F28A}</Project>
       <Name>VRC.ClientSim</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDK3.Editor.csproj">
-      <Project>{608059EE-218F-B3BF-5707-AE1675610BC5}</Project>
+      <Project>{C73F9DD7-8FB1-0B7C-6DED-CD7163EEF958}</Project>
       <Name>VRC.SDK3.Editor</Name>
     </ProjectReference>
   </ItemGroup>

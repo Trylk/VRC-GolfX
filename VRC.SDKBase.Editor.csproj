@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8B828B92-D1A6-9800-A6D6-45E93598D77E}</ProjectGuid>
+    <ProjectGuid>{BA9387BD-A237-EA79-CADB-E55A18C4F090}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VRC.SDKBase.Editor</AssemblyName>
@@ -1306,11 +1306,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VRC.SDKBase.csproj">
-      <Project>{8AD7BB88-7DEA-3D54-EA29-C75D70C60BC2}</Project>
+      <Project>{DADF9EDA-B8BE-6A02-E369-252A1FE749EB}</Project>
       <Name>VRC.SDKBase</Name>
     </ProjectReference>
     <ProjectReference Include="UniTask.csproj">
-      <Project>{0DA3B0DA-9564-FD56-6AC2-21DA699ADBEB}</Project>
+      <Project>{C3D5EE1D-690F-08B2-22B2-4E0DF177E431}</Project>
       <Name>UniTask</Name>
     </ProjectReference>
   </ItemGroup>

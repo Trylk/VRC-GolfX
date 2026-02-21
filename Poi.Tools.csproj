@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{24AA6126-8444-30A7-FED4-43A521A06009}</ProjectGuid>
+    <ProjectGuid>{4F3CF73C-2434-3FC5-142F-99B2F7D73C1B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Poi.Tools</AssemblyName>
@@ -1193,7 +1193,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="ThryAssemblyDefinition.csproj">
-      <Project>{AE69327B-BA24-3D4A-0AFA-79A8EFA92E97}</Project>
+      <Project>{E0B50CDF-480B-ADC7-40A6-FA2C0C55A045}</Project>
       <Name>ThryAssemblyDefinition</Name>
     </ProjectReference>
   </ItemGroup>

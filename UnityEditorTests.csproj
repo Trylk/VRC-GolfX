@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BE7D235B-46DE-C78D-A020-B11E9D082103}</ProjectGuid>
+    <ProjectGuid>{A2CAF076-82CF-E4E7-77A6-BA67368A14AC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UnityEditorTests</AssemblyName>
@@ -1021,27 +1021,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VRC.Udon.Editor.csproj">
-      <Project>{47CE2010-A2DA-EA2D-8132-CF0505E3C00D}</Project>
+      <Project>{6C669D47-2C1F-D83A-EBD3-607AB760761B}</Project>
       <Name>VRC.Udon.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.Udon.csproj">
-      <Project>{C4800C59-B836-F800-0494-7FEF5F74FF02}</Project>
+      <Project>{CB547C35-0F19-CE06-0FBB-940B057A33FB}</Project>
       <Name>VRC.Udon</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDK3.csproj">
-      <Project>{84ACCAF5-132F-02A6-D5D0-7B5F08438BCF}</Project>
+      <Project>{43D3655F-6A9E-7CF6-139F-12B85B859709}</Project>
       <Name>VRC.SDK3</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDKBase.csproj">
-      <Project>{8AD7BB88-7DEA-3D54-EA29-C75D70C60BC2}</Project>
+      <Project>{DADF9EDA-B8BE-6A02-E369-252A1FE749EB}</Project>
       <Name>VRC.SDKBase</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDK3.Editor.csproj">
-      <Project>{608059EE-218F-B3BF-5707-AE1675610BC5}</Project>
+      <Project>{C73F9DD7-8FB1-0B7C-6DED-CD7163EEF958}</Project>
       <Name>VRC.SDK3.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.SDKBase.Editor.csproj">
-      <Project>{8B828B92-D1A6-9800-A6D6-45E93598D77E}</Project>
+      <Project>{BA9387BD-A237-EA79-CADB-E55A18C4F090}</Project>
       <Name>VRC.SDKBase.Editor</Name>
     </ProjectReference>
   </ItemGroup>

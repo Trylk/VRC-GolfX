@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{80486FDB-108A-C3C6-811A-210F928CBECB}</ProjectGuid>
+    <ProjectGuid>{DCD13559-1A78-6EE4-B1B5-C2934B57DCD3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VRC.SDKBase.Editor.ShaderStripping</AssemblyName>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FEB9382C-39AF-9B9E-42C6-4F263F2110E9}</ProjectGuid>
+    <ProjectGuid>{DE31F62F-385B-A1D5-E772-070FC017A85A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UdonSharp.Runtime</AssemblyName>
@@ -1158,11 +1158,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VRC.Udon.Serialization.OdinSerializer.csproj">
-      <Project>{79C2B45C-76C6-666F-C2CD-B0916ABC95E5}</Project>
+      <Project>{49F2017D-F752-7C35-6B03-43D6B478003F}</Project>
       <Name>VRC.Udon.Serialization.OdinSerializer</Name>
     </ProjectReference>
     <ProjectReference Include="VRC.Udon.csproj">
-      <Project>{C4800C59-B836-F800-0494-7FEF5F74FF02}</Project>
+      <Project>{CB547C35-0F19-CE06-0FBB-940B057A33FB}</Project>
       <Name>VRC.Udon</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DAF94493-E45C-EEFB-E2CB-E01D9993A9BF}</ProjectGuid>
+    <ProjectGuid>{DF8132FF-6135-8234-48DC-C7FFA6B1375F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>com.vrchat.core.vpm-resolver.Editor</AssemblyName>
