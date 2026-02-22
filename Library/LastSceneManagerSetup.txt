@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Golf/Props/Ball/Ball.unity
+- path: Assets/Golf/Level editor/Chunks/Test level.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
